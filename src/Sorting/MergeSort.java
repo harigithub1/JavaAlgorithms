@@ -3,7 +3,7 @@ package Sorting;
 // Merge Sort https://www.youtube.com/watch?v=yv6svAfoYik
 // In merge sort we don't change the original array, we just add original array elements to the new array in ascending/descending order.
 // Where as in bubble/insertion etc., we swap the elements of original array using temporary variable
-class ImpMergeSort {
+class MergeSort {
 
     //sort method
     private static int[] sort(int[] array) {
