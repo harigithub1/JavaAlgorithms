@@ -1,4 +1,6 @@
-public class test 
+package Level1;
+
+public class RepeatedWordWithCount
 {
 
 	public static void main(String[] args)

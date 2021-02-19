@@ -1,3 +1,5 @@
+package Level2;
+
 // https://www.geeksforgeeks.org/binary-search/
 class ImpBinarySearch {
     int binarySearch(int arr[], int left, int right, int x)

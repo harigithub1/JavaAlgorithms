@@ -1,5 +1,6 @@
+package Level1;
 
-public class test2 {
+public class SimpleRecursion {
 
 public void print1(int n) {
 	
@@ -10,7 +11,7 @@ public void print1(int n) {
 }
 	
 	public static void main(String[] args) {
-test2 obj = new test2();
+SimpleRecursion obj = new SimpleRecursion();
 		obj.print1(1);
 
 	}

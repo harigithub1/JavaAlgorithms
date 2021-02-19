@@ -1,5 +1,7 @@
+package Level1;
+
 import java.lang.*;
- public class InsertWordInString {
+ public class SubstringMethodUsage {
  public static void main(String[] args)
  {
    String main_string = "Python 3.0";

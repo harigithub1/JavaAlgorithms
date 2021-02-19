@@ -1,7 +1,9 @@
+package Level1;
+
 import java.io.*;
 
 /*to find if the given number is present in the array or not*/
-public class CheckEle {
+public class GivenValuePresentOrNotArray {
 	static int k;
 	static int l;
 
@@ -24,7 +26,7 @@ public class CheckEle {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 
-		CheckEle obj = new CheckEle();
+		GivenValuePresentOrNotArray obj = new GivenValuePresentOrNotArray();
 		InputStreamReader isr = new InputStreamReader(System.in);
 		BufferedReader br = new BufferedReader(isr);
 		System.out.println("enter the element to be searched");
