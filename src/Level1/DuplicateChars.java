@@ -1,3 +1,5 @@
+package Level1;
+
 public class DuplicateChars {
 public static void main(String args[]){
     System.setProperty("webdriver.chrome.driver", "C:/path/to/chromedriver.exe");

@@ -1,4 +1,4 @@
-package Sorting;
+package Level2;
 
 // Merge Sort https://www.youtube.com/watch?v=yv6svAfoYik
 // In merge sort we don't change the original array, we just add original array elements to the new array in ascending/descending order.

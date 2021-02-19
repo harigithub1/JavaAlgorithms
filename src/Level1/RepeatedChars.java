@@ -1,4 +1,6 @@
-public class RepeatedChars 
+package Level1;
+
+public class RepeatedChars
 {
 
 	public static void main(String[] args)

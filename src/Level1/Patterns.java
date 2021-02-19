@@ -1,3 +1,5 @@
+package Level1;
+
 class Patterns {
   public static void main(String [] args) {
     int size=4;
