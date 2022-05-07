@@ -5,35 +5,35 @@ package NotRequired;// source - Joe James https://www.youtube.com/watch?v=lCDZ0I
 import java.util.ArrayList;
 
 public class InsertionSortArrayList {
-    public ArrayList<Integer> insertionSort(ArrayList<Integer> list) {
-        int i, j, key, temp;
-        for (i = 1; i < list.size(); i++) {
-            key = list.get(i);
-            j = i - 1;
-            while (j >= 0 && key < list.get(j)) {
-                temp = list.get(j);
-                list.set(j, list.get(j + 1));
-                list.set(j + 1, temp);
-                j--;
-            }
-        }
-        return list;
+  public ArrayList<Integer> insertionSort(ArrayList<Integer> arrayList) {
+    int i, j, key, temp;
+    for (i = 1; i < arrayList.size(); i++) {
+      key = arrayList.get(i);
+      j = i - 1;
+      while (j >= 0 && key < arrayList.get(j)) {
+        temp = arrayList.get(j);
+        arrayList.set(j, arrayList.get(j + 1));
+        arrayList.set(j + 1, temp);
+        j--;
+      }
     }
+    return arrayList;
+  }
 
-    public static void main(String args[]) {
-        InsertionSortArrayList i = new InsertionSortArrayList();
-        ArrayList<Integer> list = new ArrayList<Integer>();
-        list.add(6);
-        list.add(8);
-        list.add(1);
-        list.add(4);
-        list.add(5);
-        list.add(3);
-        list.add(7);
-        list.add(2);
-        i.insertionSort(list);
-        for (Integer a : list) {
-            System.out.print(a+", ");
-        }
+  public static void main(String args[]) {
+    InsertionSortArrayList i = new InsertionSortArrayList();
+    ArrayList<Integer> arrayList = new ArrayList<Integer>();
+    arrayList.add(6);
+    arrayList.add(8);
+    arrayList.add(1);
+    arrayList.add(4);
+    arrayList.add(5);
+    arrayList.add(3);
+    arrayList.add(7);
+    arrayList.add(2);
+    i.insertionSort(arrayList);
+    for (Integer a : arrayList) {
+      System.out.print(a + ", ");
     }
+  }
 }
