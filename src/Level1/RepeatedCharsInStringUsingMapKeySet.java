@@ -4,9 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class DuplicateCharsInString {
+public class RepeatedCharsInStringUsingMapKeySet {
   public static void main(String[] args) {
-    String str = "java";
+    String str = "java va";
     //initially below hashmap is empty
     Map<Character, Integer> map = new HashMap<Character, Integer>();
     char[] charArray = str.toCharArray();

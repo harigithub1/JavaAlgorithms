@@ -1,6 +1,6 @@
 package Level1;
 
-public class RepeatedWordWithCount {
+public class RepeatedWordWithForLoops {
   public static void main(String[] args) {
     //input String
     String input = "Java is widely used in building web application and mobile application";
