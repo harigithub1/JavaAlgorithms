@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class RepeatedCharsInStringUsingMapKeySet {
+public class RepeatedCharsInStringUsingMap {
   public static void main(String[] args) {
     String str = "java va";
     //initially below hashmap is empty

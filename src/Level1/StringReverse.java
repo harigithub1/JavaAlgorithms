@@ -1,15 +1,8 @@
 package Level1;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
 public class StringReverse {
-    public static void main(String args[]) throws IOException {
-        InputStreamReader isr = new InputStreamReader(System.in);
-        System.out.println("enter string: ");
-        BufferedReader br = new BufferedReader(isr);
-        String str = br.readLine();
+    public static void main(String args[]) {
+        String str = "abcd";
         char c[] = str.toCharArray();
         int begin = 0, end = c.length - 1;
         while (end > begin) {
@@ -19,6 +12,8 @@ public class StringReverse {
             end--;
             begin++;
         }
-        System.out.println("reversed string: " + c);
+        for (int i = 0; i < c.length; i++) {
+            System.out.print(c[i]);
+        }
     }
 }
