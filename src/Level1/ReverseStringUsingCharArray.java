@@ -1,6 +1,6 @@
 package Level1;
 
-public class ReverseString {
+public class ReverseStringUsingCharArray {
     public static void main(String args[]) {
         String str = "abcd";
         char c[] = str.toCharArray();

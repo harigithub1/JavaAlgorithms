@@ -1,6 +1,6 @@
 package Level1;
 
-public class SubstringMethodUsage {
+public class SubstringMethodDemo {
     public static void main(String[] args) {
         String main_string = "Python 3.0";
         String word = "Tutorial";

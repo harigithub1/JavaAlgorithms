@@ -1,7 +1,7 @@
 package Level1;
 
 import java.util.Arrays;
-public class RemoveDuplicateInArrayExample3{  
+public class RemoveDuplicateInArray {
 public static int removeDuplicateElements(int arr[], int n){  
         if (n==0 || n==1){  
             return n;  
