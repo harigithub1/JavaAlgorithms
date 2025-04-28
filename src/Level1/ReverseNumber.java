@@ -1,6 +1,6 @@
 package Level1;
 
-public class NumberReverse {
+public class ReverseNumber {
     public static void main(String[] args) {
         int n = 1234, rev = 0, rem;
         while (n > 0) {
