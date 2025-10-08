@@ -1,27 +1,20 @@
 package Level1;
 
 public class FibonacciWithRecursion {
-    int n1 = 0, n2 = 1, n3, count = 0;
-
     public static void main(String[] args) {
-        FibonacciWithRecursion fibonacciWithRecursion = new FibonacciWithRecursion();
-        fibonacciWithRecursion.fibonacci(5);
+        int n = 8;
+        for (int i = 0; i < n; i++) {
+            System.out.println(fibonacci(i));
+        }
     }
 
-    public int fibonacci(int n) {
-        if (count == 0) {
-            System.out.println(n1);
-            System.out.println(n2);
-        }
-        count++;
-        n3 = n1 + n2;
-        System.out.println(n3);
-        n1 = n2;
-        n2 = n3;
-        if (n == 1) {
-            return 1;
+    public static int fibonacci(int n) {
+        if (n == 0) {
+            return 0; // base case 1
+        } else if (n == 1) {
+            return 1; // base case 2
         } else {
-            return fibonacci(n - 1);
+            return fibonacci(n - 1) + fibonacci(n - 2); // recursive relation
         }
     }
 }
