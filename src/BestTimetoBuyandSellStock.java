@@ -27,15 +27,15 @@ public class BestTimetoBuyandSellStock {
 
         for (int i = 1; i < prices.length; i++) {
             // Step 1: Calculate profit if we sold today
-            int price = prices[i];
+            int todaysPrice = prices[i];
             // Step 2: Update maxProfit if this profit is higher
-            int profit = price - minPrice;
+            int profit = todaysPrice - minPrice;
             if (profit > maxProfit) {
                 maxProfit = profit;
             }
             // Step 3: Update minPrice if today's price is lower
-            if (price < minPrice) {
-                minPrice = price;
+            if (todaysPrice < minPrice) {
+                minPrice = todaysPrice;
             }
         }
         return maxProfit;
