@@ -1,5 +1,5 @@
 public class E2RemoveDuplicates {
-    //Algorithm Idea — Two Pointer Technique
+    //Algorithm Idea 	6 Two Pointer Technique
     public static int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
 
