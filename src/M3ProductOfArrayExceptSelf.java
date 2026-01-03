@@ -1,4 +1,4 @@
-public class ProductOfArrayExceptSelf {
+public class M3ProductOfArrayExceptSelf {
     public int[] prodExceptSelf(int[] nums) {
         int n = nums.length;
         int[] out = new int[n];

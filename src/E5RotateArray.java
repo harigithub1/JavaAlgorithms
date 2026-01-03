@@ -1,4 +1,4 @@
-public class RotateArray {
+public class E5RotateArray {
     public static void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k % n; // handle cases where k > n

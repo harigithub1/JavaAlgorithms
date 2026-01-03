@@ -1,4 +1,4 @@
-public class FindDuplicateNumber {
+public class M4FindDuplicateNumber {
     //Floyd’s Cycle Detection (Tortoise and Hare)
     public static int findDuplicate(int[] nums) {
         int slow = nums[0];

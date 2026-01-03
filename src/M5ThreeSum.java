@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ThreeSum {
+public class M5ThreeSum {
     
     public static List<List<Integer>> threeSum(int[] nums, int targetSum) {
         List<List<Integer>> result = new ArrayList<>();
