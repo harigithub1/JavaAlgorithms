@@ -21,7 +21,7 @@ public class M3ProductOfArrayExceptSelf {
 
     // quick test
     public static void main(String[] args) {
-        ProductOfArrayExceptSelf p = new ProductOfArrayExceptSelf();
+        M3ProductOfArrayExceptSelf p = new M3ProductOfArrayExceptSelf();
         int[] nums = {1, 2, 3, 4};
         int[] res = p.prodExceptSelf(nums);
         for (int v : res) System.out.print(v + " "); // prints: 24 12 8 6
