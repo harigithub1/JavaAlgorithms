@@ -1,6 +1,7 @@
 // LeetCode 121: Best Time to Buy and Sell Stock
+// Find the maximum possible profit.
 public class E4BestTimetoBuyandSellStock {
-    // Pattern: Greedy algorithm
+    // Pattern: Greedy Algorithm (One-Pass Optimization)
 
     /**
      * As you go through prices, you want to find the lowest price so far (the best buying day).

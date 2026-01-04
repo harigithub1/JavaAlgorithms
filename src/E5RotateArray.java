@@ -1,3 +1,4 @@
+//Pattern: Array Reversal Pattern (In-Place Rotation using 3 Reversals)
 public class E5RotateArray {
     public static void rotate(int[] nums, int k) {
         int n = nums.length;
