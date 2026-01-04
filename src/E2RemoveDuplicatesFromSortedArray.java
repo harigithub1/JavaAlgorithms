@@ -1,5 +1,7 @@
-public class E2RemoveDuplicates {
-    //Algorithm Idea Two Pointer Technique
+import java.util.Arrays;
+
+public class E2RemoveDuplicatesFromSortedArray {
+    //Pattern: Two Pointer Technique
     public static int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
 

@@ -1,20 +1,21 @@
 public class E3MoveZeroes {
-    //Two-Pointer Technique, O(n) time, O(1) space
+    // Pattern:Two Pointer Technique
+    // O(n) time, O(1) space
     public static void moveZeroes(int[] nums) {
-        int lastNonZeroIndex = 0;
+        int i = 0; //last non zero index
 
         // Move non-zero elements forward
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                nums[lastNonZeroIndex] = nums[i];
-                lastNonZeroIndex++;
+        for (int j = 0; j < nums.length; j++) {
+            if (nums[j] != 0) {
+                nums[i] = nums[j];
+                i++;
             }
         }
 
         // Fill remaining elements with 0
-        while (lastNonZeroIndex < nums.length) {
-            nums[lastNonZeroIndex] = 0;
-            lastNonZeroIndex++;
+        while (i < nums.length) {
+            nums[i] = 0;
+            i++;
         }
     }
 

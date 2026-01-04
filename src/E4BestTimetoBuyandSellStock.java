@@ -1,16 +1,13 @@
 // LeetCode 121: Best Time to Buy and Sell Stock
 public class E4BestTimetoBuyandSellStock {
-    //Greedy algorithm
+    // Pattern: Greedy algorithm
 
     /**
-     * Algorithm Intuition
-     * Think like a trader:
-     *
      * As you go through prices, you want to find the lowest price so far (the best buying day).
      *
      * On each day, you ask:
-     * If I sell today, what would my profit be?
-     *  profit = price_today - min_price_so_far
+     * If I sell today, what would my profit be?
+     * profit = price_today - min_price_so_far
      *
      * You always keep track of:
      *
