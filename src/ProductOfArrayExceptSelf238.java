@@ -1,4 +1,4 @@
-public class M3ProductOfArrayExceptSelf {
+public class ProductOfArrayExceptSelf238 {
     public int[] prodExceptSelf(int[] nums) {
         int n = nums.length;
         int[] out = new int[n];
@@ -21,7 +21,7 @@ public class M3ProductOfArrayExceptSelf {
 
     // quick test
     public static void main(String[] args) {
-        M3ProductOfArrayExceptSelf p = new M3ProductOfArrayExceptSelf();
+        ProductOfArrayExceptSelf238 p = new ProductOfArrayExceptSelf238();
         int[] nums = {1, 2, 3, 4};
         int[] res = p.prodExceptSelf(nums);
         for (int v : res) System.out.print(v + " "); // prints: 24 12 8 6
