@@ -3,6 +3,7 @@ import java.util.Set;
 
 public class ContainsDuplicate217 {
 
+    // Pattern: HashSet ‘seen before’ pattern for duplicate detection
     public static boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
 
