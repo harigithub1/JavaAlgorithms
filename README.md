@@ -72,3 +72,21 @@
 - Problems are grouped by **official LeetCode difficulty**
 - Ordered by **relative difficulty within each category**
 - Designed for **Google L4 → L5 interview preparation**
+
+---
+
+## Interview-Ready Milestone 🚀
+
+You’re **interview ready** when you can:
+
+- ✅ Solve **Easy** problems in **< 10 minutes**
+- ✅ Solve **Medium** problems in **25–35 minutes**
+- ✅ Clearly **explain why your approach works**
+- ✅ **Code cleanly** without hints or references
+
+### ⚠️ Very Important (Most People Miss This)
+
+- ❌ Solving ≠ Learning  
+- ✅ **Re-solving the same problem after 3–7 days** is what truly locks in the concept
+
+> Mastery comes from repetition, not just completion.
