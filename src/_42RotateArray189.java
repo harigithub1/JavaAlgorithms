@@ -1,5 +1,5 @@
 //Pattern: Array Reversal Pattern (In-Place Rotation using 3 Reversals)
-public class RotateArray189 {
+public class _42RotateArray189 {
     public static void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k % n; // handle cases where k > n

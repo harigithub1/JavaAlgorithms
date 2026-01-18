@@ -1,4 +1,4 @@
-public class BinarySearch704 {
+public class _12BinarySearch704 {
 
     public static int search(int[] nums, int target) {
 
