@@ -1,0 +1,322 @@
+# Google US L5 – LeetCode Preparation (300 Problems)
+
+Goal: Crack **Google US L5 (Senior Software Engineer)**
+
+Track progress by checking problems as you solve them.
+
+---
+
+## 🟢 EASY (1–60)
+
+- [ ] 1. (1) Two Sum  
+- [ ] 2. (9) Palindrome Number  
+- [ ] 3. (13) Roman to Integer  
+- [ ] 4. (14) Longest Common Prefix  
+- [ ] 5. (20) Valid Parentheses  
+- [ ] 6. (21) Merge Two Sorted Lists  
+- [ ] 7. (26) Remove Duplicates from Sorted Array  
+- [ ] 8. (27) Remove Element  
+- [ ] 9. (28) Find the Index of the First Occurrence in a String  
+- [ ] 10. (35) Search Insert Position  
+- [ ] 11. (53) Maximum Subarray  
+- [ ] 12. (58) Length of Last Word  
+- [ ] 13. (66) Plus One  
+- [ ] 14. (67) Add Binary  
+- [ ] 15. (69) Sqrt(x)  
+- [ ] 16. (70) Climbing Stairs  
+- [ ] 17. (83) Remove Duplicates from Sorted List  
+- [ ] 18. (88) Merge Sorted Array  
+- [ ] 19. (94) Binary Tree Inorder Traversal  
+- [ ] 20. (100) Same Tree  
+- [ ] 21. (101) Symmetric Tree  
+- [ ] 22. (104) Maximum Depth of Binary Tree  
+- [ ] 23. (108) Convert Sorted Array to BST  
+- [ ] 24. (110) Balanced Binary Tree  
+- [ ] 25. (111) Minimum Depth of Binary Tree  
+- [ ] 26. (112) Path Sum  
+- [ ] 27. (118) Pascal’s Triangle  
+- [ ] 28. (121) Best Time to Buy and Sell Stock  
+- [ ] 29. (125) Valid Palindrome  
+- [ ] 30. (136) Single Number  
+- [ ] 31. (141) Linked List Cycle  
+- [ ] 32. (144) Binary Tree Preorder Traversal  
+- [ ] 33. (145) Binary Tree Postorder Traversal  
+- [ ] 34. (155) Min Stack  
+- [ ] 35. (160) Intersection of Two Linked Lists  
+- [ ] 36. (168) Excel Sheet Column Title  
+- [ ] 37. (169) Majority Element  
+- [ ] 38. (171) Excel Sheet Column Number  
+- [ ] 39. (190) Reverse Bits  
+- [ ] 40. (191) Number of 1 Bits  
+- [ ] 41. (202) Happy Number  
+- [ ] 42. (203) Remove Linked List Elements  
+- [ ] 43. (206) Reverse Linked List  
+- [ ] 44. (217) Contains Duplicate  
+- [ ] 45. (226) Invert Binary Tree  
+- [ ] 46. (231) Power of Two  
+- [ ] 47. (234) Palindrome Linked List  
+- [ ] 48. (242) Valid Anagram  
+- [ ] 49. (257) Binary Tree Paths  
+- [ ] 50. (268) Missing Number  
+- [ ] 51. (278) First Bad Version  
+- [ ] 52. (283) Move Zeroes  
+- [ ] 53. (326) Power of Three  
+- [ ] 54. (338) Counting Bits  
+- [ ] 55. (344) Reverse String  
+- [ ] 56. (349) Intersection of Two Arrays  
+- [ ] 57. (383) Ransom Note  
+- [ ] 58. (387) First Unique Character in a String  
+- [ ] 59. (392) Is Subsequence  
+- [ ] 60. (409) Longest Palindrome  
+
+---
+
+## 🟡 MEDIUM (61–240)
+
+- [ ] 61. (2) Add Two Numbers  
+- [ ] 62. (3) Longest Substring Without Repeating Characters  
+- [ ] 63. (5) Longest Palindromic Substring  
+- [ ] 64. (11) Container With Most Water  
+- [ ] 65. (15) 3Sum  
+- [ ] 66. (17) Letter Combinations of a Phone Number  
+- [ ] 67. (19) Remove Nth Node From End  
+- [ ] 68. (22) Generate Parentheses  
+- [ ] 69. (24) Swap Nodes in Pairs  
+- [ ] 70. (33) Search in Rotated Sorted Array  
+- [ ] 71. (34) Find First and Last Position of Element  
+- [ ] 72. (36) Valid Sudoku  
+- [ ] 73. (39) Combination Sum  
+- [ ] 74. (40) Combination Sum II  
+- [ ] 75. (46) Permutations  
+- [ ] 76. (48) Rotate Image  
+- [ ] 77. (49) Group Anagrams  
+- [ ] 78. (50) Pow(x, n)  
+- [ ] 79. (54) Spiral Matrix  
+- [ ] 80. (55) Jump Game  
+- [ ] 81. (56) Merge Intervals  
+- [ ] 82. (57) Insert Interval  
+- [ ] 83. (62) Unique Paths  
+- [ ] 84. (63) Unique Paths II  
+- [ ] 85. (64) Minimum Path Sum  
+- [ ] 86. (73) Set Matrix Zeroes  
+- [ ] 87. (75) Sort Colors  
+- [ ] 88. (78) Subsets  
+- [ ] 89. (79) Word Search  
+- [ ] 90. (80) Remove Duplicates from Sorted Array II  
+- [ ] 91. (90) Subsets II  
+- [ ] 92. (91) Decode Ways  
+- [ ] 93. (92) Reverse Linked List II  
+- [ ] 94. (98) Validate Binary Search Tree  
+- [ ] 95. (102) Binary Tree Level Order Traversal  
+- [ ] 96. (103) Zigzag Level Order Traversal  
+- [ ] 97. (105) Construct Binary Tree from Preorder/Inorder  
+- [ ] 98. (106) Construct Binary Tree from Inorder/Postorder  
+- [ ] 99. (113) Path Sum II  
+- [ ] 100. (114) Flatten Binary Tree to Linked List  
+- [ ] 101. (116) Populating Next Right Pointers  
+- [ ] 102. (117) Populating Next Right Pointers II  
+- [ ] 103. (120) Triangle  
+- [ ] 104. (122) Best Time to Buy and Sell Stock II  
+- [ ] 105. (124) Binary Tree Maximum Path Sum  
+- [ ] 106. (128) Longest Consecutive Sequence  
+- [ ] 107. (130) Surrounded Regions  
+- [ ] 108. (131) Palindrome Partitioning  
+- [ ] 109. (133) Clone Graph  
+- [ ] 110. (134) Gas Station  
+- [ ] 111. (139) Word Break  
+- [ ] 112. (142) Linked List Cycle II  
+- [ ] 113. (146) LRU Cache  
+- [ ] 114. (150) Evaluate Reverse Polish Notation  
+- [ ] 115. (152) Maximum Product Subarray  
+- [ ] 116. (153) Find Minimum in Rotated Sorted Array  
+- [ ] 117. (162) Find Peak Element  
+- [ ] 118. (167) Two Sum II  
+- [ ] 119. (173) BST Iterator  
+- [ ] 120. (198) House Robber  
+- [ ] 121. (199) Binary Tree Right Side View  
+- [ ] 122. (200) Number of Islands  
+- [ ] 123. (207) Course Schedule  
+- [ ] 124. (208) Implement Trie  
+- [ ] 125. (210) Course Schedule II  
+- [ ] 126. (215) Kth Largest Element in Array  
+- [ ] 127. (221) Maximal Square  
+- [ ] 128. (227) Basic Calculator II  
+- [ ] 129. (230) Kth Smallest Element in BST  
+- [ ] 130. (236) Lowest Common Ancestor of Binary Tree  
+- [ ] 131. (238) Product of Array Except Self  
+- [ ] 132. (240) Search a 2D Matrix II  
+- [ ] 133. (253) Meeting Rooms II  
+- [ ] 134. (260) Single Number III  
+- [ ] 135. (264) Ugly Number II  
+- [ ] 136. (279) Perfect Squares  
+- [ ] 137. (286) Walls and Gates  
+- [ ] 138. (300) Longest Increasing Subsequence  
+- [ ] 139. (322) Coin Change  
+- [ ] 140. (328) Odd Even Linked List  
+- [ ] 141. (334) Increasing Triplet Subsequence  
+- [ ] 142. (341) Flatten Nested List Iterator  
+- [ ] 143. (347) Top K Frequent Elements  
+- [ ] 144. (365) Water and Jug Problem  
+- [ ] 145. (377) Combination Sum IV  
+- [ ] 146. (380) Insert Delete GetRandom O(1)  
+- [ ] 147. (394) Decode String  
+- [ ] 148. (417) Pacific Atlantic Water Flow  
+- [ ] 149. (424) Longest Repeating Character Replacement  
+- [ ] 150. (438) Find All Anagrams in a String  
+- [ ] 151. (443) String Compression  
+- [ ] 152. (450) Delete Node in a BST  
+- [ ] 153. (451) Sort Characters By Frequency  
+- [ ] 154. (454) 4Sum II  
+- [ ] 155. (457) Circular Array Loop  
+- [ ] 156. (494) Target Sum  
+- [ ] 157. (503) Next Greater Element II  
+- [ ] 158. (508) Most Frequent Subtree Sum  
+- [ ] 159. (518) Coin Change II  
+- [ ] 160. (523) Continuous Subarray Sum  
+- [ ] 161. (528) Random Pick with Weight  
+- [ ] 162. (535) Encode and Decode TinyURL  
+- [ ] 163. (547) Number of Provinces  
+- [ ] 164. (560) Subarray Sum Equals K  
+- [ ] 165. (567) Permutation in String  
+- [ ] 166. (621) Task Scheduler  
+- [ ] 167. (647) Palindromic Substrings  
+- [ ] 168. (654) Maximum Binary Tree  
+- [ ] 169. (658) Find K Closest Elements  
+- [ ] 170. (662) Maximum Width of Binary Tree  
+- [ ] 171. (673) Number of LIS  
+- [ ] 172. (684) Redundant Connection  
+- [ ] 173. (695) Max Area of Island  
+- [ ] 174. (721) Accounts Merge  
+- [ ] 175. (739) Daily Temperatures  
+- [ ] 176. (743) Network Delay Time  
+- [ ] 177. (752) Open the Lock  
+- [ ] 178. (763) Partition Labels  
+- [ ] 179. (785) Is Graph Bipartite?  
+- [ ] 180. (787) Cheapest Flights Within K Stops  
+- [ ] 181. (797) All Paths From Source to Target  
+- [ ] 182. (814) Binary Tree Pruning  
+- [ ] 183. (841) Keys and Rooms  
+- [ ] 184. (863) All Nodes Distance K  
+- [ ] 185. (875) Koko Eating Bananas  
+- [ ] 186. (904) Fruit Into Baskets  
+- [ ] 187. (909) Snakes and Ladders  
+- [ ] 188. (931) Minimum Falling Path Sum  
+- [ ] 189. (958) Check Completeness of Binary Tree  
+- [ ] 190. (973) K Closest Points to Origin  
+- [ ] 191. (986) Interval List Intersections  
+- [ ] 192. (994) Rotting Oranges  
+- [ ] 193. (1004) Max Consecutive Ones III  
+- [ ] 194. (1029) Two City Scheduling  
+- [ ] 195. (1041) Robot Bounded in Circle  
+- [ ] 196. (1091) Shortest Path in Binary Matrix  
+- [ ] 197. (1143) Longest Common Subsequence  
+- [ ] 198. (1209) Remove All Adjacent Duplicates II  
+- [ ] 199. (1249) Minimum Remove to Make Valid Parentheses  
+- [ ] 200. (1338) Reduce Array Size to Half  
+- [ ] 201. (1448) Count Good Nodes in Binary Tree  
+- [ ] 202. (1493) Longest Subarray of 1s After Deleting One  
+- [ ] 203. (1552) Magnetic Force Between Two Balls  
+- [ ] 204. (1658) Minimum Operations to Reduce X to Zero  
+- [ ] 205. (1679) Max Number of K-Sum Pairs  
+- [ ] 206. (1762) Buildings With an Ocean View  
+- [ ] 207. (1851) Minimum Interval to Include Each Query  
+- [ ] 208. (1976) Number of Ways to Arrive at Destination  
+- [ ] 209. (2101) Detonate the Maximum Bombs  
+- [ ] 210. (2244) Minimum Rounds to Complete Tasks  
+- [ ] 211. (2300) Successful Pairs of Spells and Potions  
+- [ ] 212. (2336) Smallest Number in Infinite Set  
+- [ ] 213. (2442) Count Number of Distinct Integers  
+- [ ] 214. (2542) Maximum Subsequence Score  
+- [ ] 215. (2610) Convert Array Into 2D Array  
+- [ ] 216. (2707) Extra Characters in a String  
+- [ ] 217. (2742) Painting the Walls  
+- [ ] 218. (2785) Sort Vowels in a String  
+- [ ] 219. (2812) Find the Safest Path in a Grid  
+- [ ] 220. (2864) Maximum Odd Binary Number  
+- [ ] 221. (2958) Length of Longest Subarray With ≤ K Frequency  
+- [ ] 222. (2971) Find Polygon With the Largest Perimeter  
+- [ ] 223. (3006) Find Beautiful Indices  
+- [ ] 224. (3020) Find the Maximum Number of Elements  
+- [ ] 225. (3075) Maximize Happiness of Selected Children  
+- [ ] 226. (3080) Mark Elements on Array  
+- [ ] 227. (3090) Maximum Length Substring With Two Occurrences  
+- [ ] 228. (3096) Minimum Levels to Gain More Points  
+- [ ] 229. (3100) Water Bottles II  
+- [ ] 230. (3110) Score of a String  
+- [ ] 231. (3120) Count the Number of Special Characters  
+- [ ] 232. (3121) Count the Number of Special Characters II  
+- [ ] 233. (3136) Valid Word  
+- [ ] 234. (3146) Permutation Difference  
+- [ ] 235. (3151) Special Array I  
+- [ ] 236. (3168) Minimum Number of Chairs  
+- [ ] 237. (3174) Clear Digits  
+- [ ] 238. (3184) Count Pairs That Form a Complete Day  
+- [ ] 239. (3190) Find Minimum Operations  
+- [ ] 240. (3194) Minimum Average of Smallest and Largest  
+
+---
+
+## 🔴 HARD (241–300)
+
+- [ ] 241. (4) Median of Two Sorted Arrays  
+- [ ] 242. (10) Regular Expression Matching  
+- [ ] 243. (23) Merge k Sorted Lists  
+- [ ] 244. (25) Reverse Nodes in k-Group  
+- [ ] 245. (32) Longest Valid Parentheses  
+- [ ] 246. (37) Sudoku Solver  
+- [ ] 247. (41) First Missing Positive  
+- [ ] 248. (42) Trapping Rain Water  
+- [ ] 249. (44) Wildcard Matching  
+- [ ] 250. (51) N-Queens  
+- [ ] 251. (52) N-Queens II  
+- [ ] 252. (65) Valid Number  
+- [ ] 253. (72) Edit Distance  
+- [ ] 254. (76) Minimum Window Substring  
+- [ ] 255. (84) Largest Rectangle in Histogram  
+- [ ] 256. (85) Maximal Rectangle  
+- [ ] 257. (87) Scramble String  
+- [ ] 258. (97) Interleaving String  
+- [ ] 259. (115) Distinct Subsequences  
+- [ ] 260. (123) Best Time to Buy and Sell Stock III  
+- [ ] 261. (127) Word Ladder  
+- [ ] 262. (132) Palindrome Partitioning II  
+- [ ] 263. (135) Candy  
+- [ ] 264. (140) Word Break II  
+- [ ] 265. (149) Max Points on a Line  
+- [ ] 266. (154) Find Minimum in Rotated Sorted Array II  
+- [ ] 267. (174) Dungeon Game  
+- [ ] 268. (188) Best Time to Buy and Sell Stock IV  
+- [ ] 269. (212) Word Search II  
+- [ ] 270. (214) Shortest Palindrome  
+- [ ] 271. (218) The Skyline Problem  
+- [ ] 272. (224) Basic Calculator  
+- [ ] 273. (239) Sliding Window Maximum  
+- [ ] 274. (269) Alien Dictionary  
+- [ ] 275. (282) Expression Add Operators  
+- [ ] 276. (295) Find Median from Data Stream  
+- [ ] 277. (297) Serialize and Deserialize Binary Tree  
+- [ ] 278. (301) Remove Invalid Parentheses  
+- [ ] 279. (312) Burst Balloons  
+- [ ] 280. (315) Count of Smaller Numbers After Self  
+- [ ] 281. (329) Longest Increasing Path in a Matrix  
+- [ ] 282. (336) Palindrome Pairs  
+- [ ] 283. (354) Russian Doll Envelopes  
+- [ ] 284. (363) Max Sum of Rectangle No Larger Than K  
+- [ ] 285. (381) Insert Delete GetRandom O(1) – Duplicates  
+- [ ] 286. (403) Frog Jump  
+- [ ] 287. (410) Split Array Largest Sum  
+- [ ] 288. (432) All O`one Data Structure  
+- [ ] 289. (460) LFU Cache  
+- [ ] 290. (472) Concatenated Words  
+- [ ] 291. (489) Robot Room Cleaner  
+- [ ] 292. (493) Reverse Pairs  
+- [ ] 293. (499) The Maze III  
+- [ ] 294. (502) IPO  
+- [ ] 295. (514) Freedom Trail  
+- [ ] 296. (517) Super Washing Machines  
+- [ ] 297. (630) Course Schedule III  
+- [ ] 298. (689) Maximum Sum of 3 Non-Overlapping Subarrays  
+- [ ] 299. (778) Swim in Rising Water  
+- [ ] 300. (827) Making A Large Island  
+
+---
