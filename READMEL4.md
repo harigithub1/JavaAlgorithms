@@ -1,25 +1,15 @@
 🟢 Easy
 
 1. Two Sum (LeetCode#1)
-
 2. Contains Duplicate (LeetCode#217)
-
 3. Valid Anagram (LeetCode#242)
-
 4. Majority Element (LeetCode#169)
-
 5. Pascal’s Triangle (LeetCode#118)
-
 6. Pascal’s Triangle II (LeetCode#119)
-
 7. Missing Number (LeetCode#268)
-
 8. Sort Colors (LeetCode#75)
-
 9. Remove Duplicates from Sorted Array (LeetCode#26)
-
 10. Valid Palindrome (LeetCode#125)
-
 167 LeetCode# – Two Sum II
 283 LeetCode# – Move Zeroes
 977 LeetCode# – Squares of a Sorted Array
