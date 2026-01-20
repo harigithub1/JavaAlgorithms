@@ -1,160 +1,149 @@
-🟢 Easy
-
-1. Two Sum (LeetCode#1)
-2. Contains Duplicate (LeetCode#217)
-3. Valid Anagram (LeetCode#242)
-4. Majority Element (LeetCode#169)
-5. Pascal’s Triangle (LeetCode#118)
-6. Pascal’s Triangle II (LeetCode#119)
-7. Missing Number (LeetCode#268)
-8. Sort Colors (LeetCode#75)
-9. Remove Duplicates from Sorted Array (LeetCode#26)
-10. Valid Palindrome (LeetCode#125)
-167 LeetCode# – Two Sum II
-283 LeetCode# – Move Zeroes
-977 LeetCode# – Squares of a Sorted Array
-344 LeetCode# – Reverse String
-392 LeetCode# – Is Subsequence
-680 LeetCode# – Valid Palindrome II
-121 LeetCode# – Best Time to Buy and Sell Stock
-20 LeetCode# – Valid Parentheses
-155 LeetCode# – Min Stack
-104 LeetCode# – Maximum Depth of Binary Tree
-110 LeetCode# – Balanced Binary Tree
-226 LeetCode# – Invert Binary Tree
-101 LeetCode# – Symmetric Tree
-543 LeetCode# – Diameter of Binary Tree
-100 LeetCode# – Same Tree
-572 LeetCode# – Subtree of Another Tree
-94 LeetCode# – Binary Tree Inorder Traversal
-144 LeetCode# – Binary Tree Preorder Traversal
-145 LeetCode# – Binary Tree Postorder Traversal
-70 LeetCode# – Climbing Stairs
-746 LeetCode# – Min Cost Climbing Stairs
-198 LeetCode# – House Robber
-703 LeetCode# – Binary Search
-35 LeetCode# – Search Insert Position
-704 LeetCode# – Binary Search
-746 LeetCode# – Min Cost Climbing Stairs
-746 LeetCode# – Min Cost Climbing Stairs
-22 LeetCode# – Generate Parentheses
-303 LeetCode# – Range Sum Query (not listed, just noting consistency)
-
-🟡 Medium
-
-49 LeetCode# – Group Anagrams
-347 LeetCode# – Top K Frequent Elements
-238 LeetCode# – Product of Array Except Self
-36 LeetCode# – Valid Sudoku
-128 LeetCode# – Longest Consecutive Sequence
-560 LeetCode# – Subarray Sum Equals K
-525 LeetCode# – Contiguous Array
-80 LeetCode# – Remove Duplicates from Sorted Array II
-41 LeetCode# – First Missing Positive
-448 LeetCode# – Find All Numbers Disappeared in an Array
-15 LeetCode# – 3Sum
-16 LeetCode# – 3Sum Closest
-18 LeetCode# – 4Sum
-11 LeetCode# – Container With Most Water
-42 LeetCode# – Trapping Rain Water
-845 LeetCode# – Longest Mountain in Array
-986 LeetCode# – Interval List Intersections
-881 LeetCode# – Boats to Save People
-3 LeetCode# – Longest Substring Without Repeating Characters
-424 LeetCode# – Longest Repeating Character Replacement
-567 LeetCode# – Permutation in String
-209 LeetCode# – Minimum Size Subarray Sum
-438 LeetCode# – Find All Anagrams in a String
-1004 LeetCode# – Max Consecutive Ones III
-904 LeetCode# – Fruit Into Baskets
-1456 LeetCode# – Maximum Number of Vowels
-1838 LeetCode# – Frequency of the Most Frequent Element
-1493 LeetCode# – Longest Subarray of 1s After Deleting One
-1695 LeetCode# – Maximum Erasure Value
-2302 LeetCode# – Count Subarrays With Score Less Than K
-150 LeetCode# – Evaluate Reverse Polish Notation
-739 LeetCode# – Daily Temperatures
-853 LeetCode# – Car Fleet
-496 LeetCode# – Next Greater Element I
-503 LeetCode# – Next Greater Element II
-946 LeetCode# – Validate Stack Sequences
-102 LeetCode# – Binary Tree Level Order Traversal
-199 LeetCode# – Binary Tree Right Side View
-230 LeetCode# – Kth Smallest Element in BST
-98 LeetCode# – Validate Binary Search Tree
-235 LeetCode# – Lowest Common Ancestor of BST
-236 LeetCode# – Lowest Common Ancestor of Binary Tree
-105 LeetCode# – Construct Binary Tree from Preorder and Inorder
-863 LeetCode# – All Nodes Distance K in Binary Tree
-200 LeetCode# – Number of Islands
-695 LeetCode# – Max Area of Island
-133 LeetCode# – Clone Graph
-994 LeetCode# – Rotting Oranges
-207 LeetCode# – Course Schedule
-210 LeetCode# – Course Schedule II
-261 LeetCode# – Graph Valid Tree
-323 LeetCode# – Number of Connected Components
-417 LeetCode# – Pacific Atlantic Water Flow
-684 LeetCode# – Redundant Connection
-785 LeetCode# – Is Graph Bipartite
-743 LeetCode# – Network Delay Time
-1584 LeetCode# – Min Cost to Connect All Points
-213 LeetCode# – House Robber II
-647 LeetCode# – Palindromic Substrings
-300 LeetCode# – Longest Increasing Subsequence
-1143 LeetCode# – Longest Common Subsequence
-322 LeetCode# – Coin Change
-518 LeetCode# – Coin Change II
-139 LeetCode# – Word Break
-91 LeetCode# – Decode Ways
-62 LeetCode# – Unique Paths
-63 LeetCode# – Unique Paths II
-416 LeetCode# – Partition Equal Subset Sum
-494 LeetCode# – Target Sum
-377 LeetCode# – Combination Sum IV
-704 LeetCode# – Binary Search
-33 LeetCode# – Search in Rotated Sorted Array
-153 LeetCode# – Find Minimum in Rotated Sorted Array
-34 LeetCode# – Find First and Last Position of Element
-875 LeetCode# – Koko Eating Bananas
-1011 LeetCode# – Capacity To Ship Packages
-410 LeetCode# – Split Array Largest Sum
-74 LeetCode# – Search a 2D Matrix
-162 LeetCode# – Find Peak Element
-46 LeetCode# – Permutations
-47 LeetCode# – Permutations II
-78 LeetCode# – Subsets
-90 LeetCode# – Subsets II
-39 LeetCode# – Combination Sum
-40 LeetCode# – Combination Sum II
-79 LeetCode# – Word Search
-131 LeetCode# – Palindrome Partitioning
-215 LeetCode# – Kth Largest Element in an Array
-973 LeetCode# – K Closest Points to Origin
-621 LeetCode# – Task Scheduler
-295 LeetCode# – Find Median from Data Stream
-253 LeetCode# – Meeting Rooms II
-452 LeetCode# – Minimum Number of Arrows
-435 LeetCode# – Non-overlapping Intervals
-56 LeetCode# – Merge Intervals
-57 LeetCode# – Insert Interval
-1094 LeetCode# – Car Pooling
-406 LeetCode# – Queue Reconstruction by Height
-502 LeetCode# – IPO
-871 LeetCode# – Minimum Number of Refueling Stops
-630 LeetCode# – Course Schedule III
-
-🔴 Hard
-76 LeetCode# – Minimum Window Substring
-84 LeetCode# – Largest Rectangle in Histogram
-85 LeetCode# – Maximal Rectangle
-124 LeetCode# – Binary Tree Maximum Path Sum
-297 LeetCode# – Serialize and Deserialize Binary Tree
-127 LeetCode# – Word Ladder
-332 LeetCode# – Reconstruct Itinerary
-5 LeetCode# – Longest Palindromic Substring
-72 LeetCode# – Edit Distance
-115 LeetCode# – Distinct Subsequences
-10 LeetCode# – Regular Expression Matching
-51 LeetCode# – N-Queens
-135 LeetCode# – Candy
+1. Two Sum (LeetCode #1)
+2. Contains Duplicate (LeetCode #217)
+3. Valid Anagram (LeetCode #242)
+4. Majority Element (LeetCode #169)
+5. Pascal’s Triangle (LeetCode #118)
+6. Pascal’s Triangle II (LeetCode #119)
+7. Missing Number (LeetCode #268)
+8. Sort Colors (LeetCode #75)
+9. Remove Duplicates from Sorted Array (LeetCode #26)
+10. Valid Palindrome (LeetCode #125)
+11. Two Sum II – Input Array Is Sorted (LeetCode #167)
+12. Move Zeroes (LeetCode #283)
+13. Squares of a Sorted Array (LeetCode #977)
+14. Reverse String (LeetCode #344)
+15. Is Subsequence (LeetCode #392)
+16. Valid Palindrome II (LeetCode #680)
+17. Best Time to Buy and Sell Stock (LeetCode #121)
+18. Valid Parentheses (LeetCode #20)
+19. Min Stack (LeetCode #155)
+20. Maximum Depth of Binary Tree (LeetCode #104)
+21. Balanced Binary Tree (LeetCode #110)
+22. Invert Binary Tree (LeetCode #226)
+23. Symmetric Tree (LeetCode #101)
+24. Diameter of Binary Tree (LeetCode #543)
+25. Same Tree (LeetCode #100)
+26. Subtree of Another Tree (LeetCode #572)
+27. Binary Tree Inorder Traversal (LeetCode #94)
+28. Binary Tree Preorder Traversal (LeetCode #144)
+29. Binary Tree Postorder Traversal (LeetCode #145)
+30. Climbing Stairs (LeetCode #70)
+31. Min Cost Climbing Stairs (LeetCode #746)
+32. House Robber (LeetCode #198)
+33. Binary Search (LeetCode #704)
+34. Search Insert Position (LeetCode #35)
+35. Generate Parentheses (LeetCode #22)
+36. Range Sum Query – Immutable (LeetCode #303)
+37. Group Anagrams (LeetCode #49)
+38. Top K Frequent Elements (LeetCode #347)
+39. Product of Array Except Self (LeetCode #238)
+40. Valid Sudoku (LeetCode #36)
+41. Longest Consecutive Sequence (LeetCode #128)
+42. Subarray Sum Equals K (LeetCode #560)
+43. Contiguous Array (LeetCode #525)
+44. Remove Duplicates from Sorted Array II (LeetCode #80)
+45. First Missing Positive (LeetCode #41)
+46. Find All Numbers Disappeared in an Array (LeetCode #448)
+47. 3Sum (LeetCode #15)
+48. 3Sum Closest (LeetCode #16)
+49. 4Sum (LeetCode #18)
+50. Container With Most Water (LeetCode #11)
+51. Trapping Rain Water (LeetCode #42)
+52. Longest Mountain in Array (LeetCode #845)
+53. Interval List Intersections (LeetCode #986)
+54. Boats to Save People (LeetCode #881)
+55. Longest Substring Without Repeating Characters (LeetCode #3)
+56. Longest Repeating Character Replacement (LeetCode #424)
+57. Permutation in String (LeetCode #567)
+58. Minimum Size Subarray Sum (LeetCode #209)
+59. Find All Anagrams in a String (LeetCode #438)
+60. Max Consecutive Ones III (LeetCode #1004)
+61. Fruit Into Baskets (LeetCode #904)
+62. Maximum Number of Vowels in a Substring (LeetCode #1456)
+63. Frequency of the Most Frequent Element (LeetCode #1838)
+64. Longest Subarray of 1s After Deleting One (LeetCode #1493)
+65. Maximum Erasure Value (LeetCode #1695)
+66. Count Subarrays With Score Less Than K (LeetCode #2302)
+67. Evaluate Reverse Polish Notation (LeetCode #150)
+68. Daily Temperatures (LeetCode #739)
+69. Car Fleet (LeetCode #853)
+70. Next Greater Element I (LeetCode #496)
+71. Next Greater Element II (LeetCode #503)
+72. Validate Stack Sequences (LeetCode #946)
+73. Binary Tree Level Order Traversal (LeetCode #102)
+74. Binary Tree Right Side View (LeetCode #199)
+75. Kth Smallest Element in a BST (LeetCode #230)
+76. Validate Binary Search Tree (LeetCode #98)
+77. Lowest Common Ancestor of a BST (LeetCode #235)
+78. Lowest Common Ancestor of a Binary Tree (LeetCode #236)
+79. Construct Binary Tree from Preorder and Inorder Traversal (LeetCode #105)
+80. All Nodes Distance K in Binary Tree (LeetCode #863)
+81. Number of Islands (LeetCode #200)
+82. Max Area of Island (LeetCode #695)
+83. Clone Graph (LeetCode #133)
+84. Rotting Oranges (LeetCode #994)
+85. Course Schedule (LeetCode #207)
+86. Course Schedule II (LeetCode #210)
+87. Graph Valid Tree (LeetCode #261)
+88. Number of Connected Components in an Undirected Graph (LeetCode #323)
+89. Pacific Atlantic Water Flow (LeetCode #417)
+90. Redundant Connection (LeetCode #684)
+91. Is Graph Bipartite? (LeetCode #785)
+92. Network Delay Time (LeetCode #743)
+93. Min Cost to Connect All Points (LeetCode #1584)
+94. House Robber II (LeetCode #213)
+95. Palindromic Substrings (LeetCode #647)
+96. Longest Increasing Subsequence (LeetCode #300)
+97. Longest Common Subsequence (LeetCode #1143)
+98. Coin Change (LeetCode #322)
+99. Coin Change II (LeetCode #518)
+100. Word Break (LeetCode #139)
+101. Decode Ways (LeetCode #91)
+102. Unique Paths (LeetCode #62)
+103. Unique Paths II (LeetCode #63)
+104. Partition Equal Subset Sum (LeetCode #416)
+105. Target Sum (LeetCode #494)
+106. Combination Sum IV (LeetCode #377)
+107. Search in Rotated Sorted Array (LeetCode #33)
+108. Find Minimum in Rotated Sorted Array (LeetCode #153)
+109. Find First and Last Position of Element in Sorted Array (LeetCode #34)
+110. Koko Eating Bananas (LeetCode #875)
+111. Capacity To Ship Packages Within D Days (LeetCode #1011)
+112. Split Array Largest Sum (LeetCode #410)
+113. Search a 2D Matrix (LeetCode #74)
+114. Find Peak Element (LeetCode #162)
+115. Permutations (LeetCode #46)
+116. Permutations II (LeetCode #47)
+117. Subsets (LeetCode #78)
+118. Subsets II (LeetCode #90)
+119. Combination Sum (LeetCode #39)
+120. Combination Sum II (LeetCode #40)
+121. Word Search (LeetCode #79)
+122. Palindrome Partitioning (LeetCode #131)
+123. Kth Largest Element in an Array (LeetCode #215)
+124. K Closest Points to Origin (LeetCode #973)
+125. Task Scheduler (LeetCode #621)
+126. Find Median from Data Stream (LeetCode #295)
+127. Meeting Rooms II (LeetCode #253)
+128. Minimum Number of Arrows to Burst Balloons (LeetCode #452)
+129. Non-overlapping Intervals (LeetCode #435)
+130. Merge Intervals (LeetCode #56)
+131. Insert Interval (LeetCode #57)
+132. Car Pooling (LeetCode #1094)
+133. Queue Reconstruction by Height (LeetCode #406)
+134. IPO (LeetCode #502)
+135. Minimum Number of Refueling Stops (LeetCode #871)
+136. Course Schedule III (LeetCode #630)
+137. Minimum Window Substring (LeetCode #76)
+138. Largest Rectangle in Histogram (LeetCode #84)
+139. Maximal Rectangle (LeetCode #85)
+140. Binary Tree Maximum Path Sum (LeetCode #124)
+141. Serialize and Deserialize Binary Tree (LeetCode #297)
+142. Word Ladder (LeetCode #127)
+143. Reconstruct Itinerary (LeetCode #332)
+144. Longest Palindromic Substring (LeetCode #5)
+145. Edit Distance (LeetCode #72)
+146. Distinct Subsequences (LeetCode #115)
+147. Regular Expression Matching (LeetCode #10)
+148. N-Queens (LeetCode #51)
+149. Candy (LeetCode #135)
