@@ -1,19 +1,25 @@
 🟢 Easy
 
-LeetCode#1 – Two Sum
+1. Two Sum (LeetCode#1)
 
-LeetCode#217 – Contains Duplicate
+2. Contains Duplicate (LeetCode#217)
 
-LeetCode#242 – Valid Anagram
+3. Valid Anagram (LeetCode#242)
 
-LeetCode#169 – Majority Element
+4. Majority Element (LeetCode#169)
 
-118 LeetCode# – Pascal’s Triangle
-119 LeetCode# – Pascal’s Triangle II
-268 LeetCode# – Missing Number
-75 LeetCode# – Sort Colors
-26 LeetCode# – Remove Duplicates from Sorted Array
-125 LeetCode# – Valid Palindrome
+5. Pascal’s Triangle (LeetCode#118)
+
+6. Pascal’s Triangle II (LeetCode#119)
+
+7. Missing Number (LeetCode#268)
+
+8. Sort Colors (LeetCode#75)
+
+9. Remove Duplicates from Sorted Array (LeetCode#26)
+
+10. Valid Palindrome (LeetCode#125)
+
 167 LeetCode# – Two Sum II
 283 LeetCode# – Move Zeroes
 977 LeetCode# – Squares of a Sorted Array
