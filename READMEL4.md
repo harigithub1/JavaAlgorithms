@@ -1,9 +1,13 @@
 🟢 Easy
 
 LeetCode#1 – Two Sum
+
 LeetCode#217 – Contains Duplicate
+
 LeetCode#242 – Valid Anagram
+
 LeetCode#169 – Majority Element
+
 118 LeetCode# – Pascal’s Triangle
 119 LeetCode# – Pascal’s Triangle II
 268 LeetCode# – Missing Number
