@@ -1,6 +1,6 @@
 //Pattern: Frequency Counting pattern with a fixed-size counting array
 //Time complexity — O(n), Space complexity — O(1)
-public class _4ValidAnagram242 {
+public class _3ValidAnagramLC242 {
 
     public static boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {

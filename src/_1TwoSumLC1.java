@@ -2,7 +2,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class _6TwoSum1 {
+public class _1TwoSumLC1 {
 
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>(nums.length);

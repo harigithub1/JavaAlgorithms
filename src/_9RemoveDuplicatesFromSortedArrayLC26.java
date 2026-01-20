@@ -1,4 +1,4 @@
-public class _9RemoveDuplicatesFromSortedArray26 {
+public class _9RemoveDuplicatesFromSortedArrayLC26 {
     //Pattern: Two Pointer Technique
     public static int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;

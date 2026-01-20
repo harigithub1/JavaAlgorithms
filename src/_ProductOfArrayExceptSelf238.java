@@ -1,4 +1,4 @@
-public class _41ProductOfArrayExceptSelf238 {
+public class _ProductOfArrayExceptSelf238 {
     public int[] prodExceptSelf(int[] nums) {
         int n = nums.length;
         int[] out = new int[n];
@@ -21,7 +21,7 @@ public class _41ProductOfArrayExceptSelf238 {
 
     // quick test
     public static void main(String[] args) {
-        _41ProductOfArrayExceptSelf238 p = new _41ProductOfArrayExceptSelf238();
+        _ProductOfArrayExceptSelf238 p = new _ProductOfArrayExceptSelf238();
         int[] nums = {1, 2, 3, 4};
         int[] res = p.prodExceptSelf(nums);
         for (int v : res) System.out.print(v + " "); // prints: 24 12 8 6

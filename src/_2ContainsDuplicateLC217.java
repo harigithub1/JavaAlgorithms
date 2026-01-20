@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class _1ContainsDuplicate217 {
+public class _2ContainsDuplicateLC217 {
 
     // Pattern: HashSet ‘seen before’ pattern for duplicate detection
     public static boolean containsDuplicate(int[] nums) {

@@ -1,4 +1,4 @@
-public class _7MoveZeroes283 {
+public class _MoveZeroes283 {
     // Pattern:Two Pointer Technique
     // O(n) time, O(1) space
     public static void moveZeroes(int[] nums) {
