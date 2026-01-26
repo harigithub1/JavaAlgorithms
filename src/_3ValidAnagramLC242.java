@@ -17,8 +17,8 @@ public class _3ValidAnagramLC242 {
     }
 
     public static void main(String[] args) {
-        System.out.println(isAnagram("anagram", "nagaram")); // true
-        System.out.println(isAnagram("rat", "car"));         // false
+        System.out.println(isAnagram("anagram", "nagaram"));
+        System.out.println(isAnagram("rat", "car"));
     }
 }
 
