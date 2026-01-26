@@ -1,5 +1,6 @@
 class _4MajorityElementLC169 {
-    public int majorityElement(int[] nums) {
+
+    public static int majorityElement(int[] nums) {
         int candidate = 0;
         int count = 0;
         for (int num : nums) {
@@ -13,5 +14,10 @@ class _4MajorityElementLC169 {
             }
         }
         return candidate;
+    }
+
+    public static void main(String[] args) {
+        int[] nums = {2, 2, 1, 1, 1, 2, 2, 2};
+        System.out.println(majorityElement(nums));
     }
 }
