@@ -21,3 +21,28 @@ class _4MajorityElementLC169 {
         System.out.println(majorityElement(nums));
     }
 }
+
+/**
+ * ✅ This code uses the Boyer-Moore Majority Vote Algorithm
+ * That is the official, correct name of the pattern/technique you're using.
+ *
+ * If someone asks:
+ * "What pattern is this?"
+ *
+ * You should say:
+ * "This is the Boyer-Moore Majority Vote algorithm."
+ * That's the answer interviewers expect.
+ *
+ * If they go one level deeper:
+ *
+ * 1️⃣ Algorithm Name
+ * 👉 Boyer-Moore Majority Vote
+ *
+ * 2️⃣ Algorithm Type
+ * 👉 Greedy Algorithm
+ *
+ * Because it makes local decisions without backtracking.
+ *
+ * So you can also say:
+ * "It's a greedy voting algorithm using Boyer-Moore."
+ */
