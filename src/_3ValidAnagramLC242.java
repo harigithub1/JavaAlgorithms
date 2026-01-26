@@ -30,3 +30,5 @@ public class _3ValidAnagramLC242 {
 
 //Pattern: Frequency Counting pattern with a fixed-size counting array
 //Time complexity — O(n), Space complexity — O(1)
+
+//here a is used because if other char like b ,c etc are used the index of freq may become negative and negative index is not allowed in array
