@@ -44,9 +44,12 @@ So the best single name to remember is:
 
 //here in first for loop a is used because if other char like b ,c etc are used the index of freq may become negative and negative index is not allowed in array
 
-// is better but for now use existing since I am in beginner stage
-// for (int count : freq) {
-//     if (count != 0) {
-//         return false;
-//     }
-// }
+// for better understanding of second for loop
+/*
+for (int count : freq) {
+    if (count == 0) {
+    } else {
+        return false;
+    }
+}
+*/
