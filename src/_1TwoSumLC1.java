@@ -24,7 +24,7 @@ public class _1TwoSumLC1 {
 /**
  * Notes:
  * LeetCode#1
- * Technique: Hashing (here it happens - map.containsKey(complement))
+ * Technique: Hashing (here it happens - map.containsKey(complement) means using hashing technique)
  * Pattern: One-pass HashMap / Complement Map
  * Category: Space–Time Tradeoff
  */
