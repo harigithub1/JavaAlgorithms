@@ -8,11 +8,11 @@ public class _3ValidAnagramLC242 {
             freq[s.charAt(i) - 'a']++;
             freq[t.charAt(i) - 'a']--;
         }
- for (int count : freq) {
-     if (count != 0) {
-         return false;
-     }
- }
+        for (int count : freq) {
+            if (count != 0) {
+                return false;
+            }
+        }
         return true;
     }
 
