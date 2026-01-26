@@ -1,5 +1,5 @@
 class _4MajorityElementLC169 {
-    public static int majorityElement(int[] nums) { // 1 usage
+    public static int majorityElement(int[] nums) { 
         int candidate = 0;
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
