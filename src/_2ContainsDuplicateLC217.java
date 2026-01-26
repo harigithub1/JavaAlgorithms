@@ -2,21 +2,28 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class _2ContainsDuplicateLC217 {
-
-    // Pattern: HashSet ‘seen before’ pattern for duplicate detection
     public static boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
-
         for (int num : nums) {
-            if (!set.add(num)) { //set.add(num) will add num to the set and returns true if num is not present already
-                return true; // duplicate found
+            if (!set.add(num)) {
+                return true;
             }
         }
-        return false; // no duplicates
+        return false;
     }
 
     public static void main(String[] args) {
         int[] nums = {1, 2, 3, 1};
-        System.out.println(containsDuplicate(nums)); // true
+        System.out.println(containsDuplicate(nums));
     }
 }
+/**
+ * You can describe this as:
+ *
+ * 🟢 “HashSet Lookup Pattern”
+ * 🟢 “Seen Before Pattern”
+ * 🟢 “Duplicate Detection Using Set”
+ */
+/**
+ * //set.add(num) will add num to the set and returns true if num is not present already
+ */
