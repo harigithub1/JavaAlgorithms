@@ -31,4 +31,22 @@ public class _3ValidAnagramLC242 {
 //Pattern: Frequency Counting pattern with a fixed-size counting array
 //Time complexity — O(n), Space complexity — O(1)
 
+/*
+The standard pattern name for this approach is:
+
+✓ Frequency Counting (Hashing) Pattern
+
+More specifically for strings:
+
+✓ Character Frequency Array Pattern
+
+And in many DSA/interview contexts, it’s also called:
+
+✓ Counting / Bucket Counting Pattern
+
+So the best single name to remember is:
+
+→ Frequency Counting Pattern
+*/
+
 //here in first for loop a is used because if other char like b ,c etc are used the index of freq may become negative and negative index is not allowed in array
