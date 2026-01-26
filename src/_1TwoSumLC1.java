@@ -2,6 +2,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class _1TwoSumLC1 {
+/*
+ * Design choice:
+ * If multiple valid pairs exist, this method returns
+ * the first pair found while scanning from left to right.
+ */
     public static int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>(nums.length);
         for (int i = 0; i < nums.length; i++) {
