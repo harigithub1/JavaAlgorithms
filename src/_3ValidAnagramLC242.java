@@ -27,3 +27,9 @@ public class _3ValidAnagramLC242 {
         System.out.println(isAnagram("rat", "car"));         // false
     }
 }
+
+// valid anagrm vs anagram
+// space special chars and case is ignored in anagram
+
+//anagram/valid anagram vs palindrome 
+// order is ignored in anagram/valid anagram but not in palindrome 
