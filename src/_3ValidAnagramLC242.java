@@ -33,19 +33,12 @@ public class _3ValidAnagramLC242 {
 
 /*
 The standard pattern name for this approach is:
-
 ✓ Frequency Counting (Hashing) Pattern
-
 More specifically for strings:
-
 ✓ Character Frequency Array Pattern
-
 And in many DSA/interview contexts, it’s also called:
-
 ✓ Counting / Bucket Counting Pattern
-
 So the best single name to remember is:
-
 → Frequency Counting Pattern
 */
 
