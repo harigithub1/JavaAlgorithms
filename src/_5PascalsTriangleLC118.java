@@ -30,3 +30,21 @@ class _5PascalsTriangleLC118 {
         System.out.println(result);
     }
 }
+/**
+ * this algorithm uses:
+ *
+ * ✅ Dynamic Programming technique
+ * ✅ Each row depends on the previous row
+ * ✅ Uses Pascal’s Triangle formula
+ *
+ * Dynamic Programming is a technique where you:
+ *
+ * ✅ Break a big problem into smaller subproblems
+ * ✅ Solve each subproblem once
+ * ✅ Save the result
+ * ✅ Reuse it later instead of recomputing
+ *
+ * In short:
+ *
+ * Solve → Store → Reuse
+ */
