@@ -2,16 +2,11 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class _1TwoSumLC1 {
-/*
- * Design choice:
- * If multiple valid pairs exist, this method returns
- * the first pair found while scanning from left to right.
- */
     public static int[] twoSum(int[] nums, int target) {
-        Map<Integer, Integer> map = new HashMap<>(nums.length);
+        Map<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
             int complement = target - nums[i];
-            if (map.containsKey(complement)) {  //we should not implement twoSum using containsValue, because its O(n2) since it involves loops
+            if (map.containsKey(complement)) {
                 return new int[]{map.get(complement), i};
             }
             map.put(nums[i], i);
@@ -33,6 +28,15 @@ public class _1TwoSumLC1 {
  * Pattern: One-pass HashMap / Complement Map
  * Category: Space–Time Tradeoff
  */
+
+//we should not implement twoSum using containsValue, because its O(n2) since it involves loops
+
+/*
+ * Design choice:
+ * If multiple valid pairs exist, this method returns
+ * the first pair found while scanning from left to right.
+ */
+
 /**
  *below is a better way since it has only one hashing
  *if map.containsKey(complement) is used two hashing happens
