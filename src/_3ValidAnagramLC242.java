@@ -1,14 +1,14 @@
 public class _3ValidAnagramLC242 {
-    public static boolean isAnagram(String s, String t) {
-        if (s.length() != t.length()) {
+    public static boolean isAnagram(String word1, String word2) {
+        if (word1.length() != word2.length()) {
             return false;
         }
-        int[] freq = new int[26]; // for lowercase letters
-        for (int i = 0; i < s.length(); i++) {
-            freq[s.charAt(i) - 'a']++;
-            freq[t.charAt(i) - 'a']--;
+        int[] diff = new int[26]; // for lowercase letters
+        for (int i = 0; i < word1.length(); i++) {
+            diff[word1.charAt(i) - 'a']++;
+            diff[word2.charAt(i) - 'a']--;
         }
-        for (int count : freq) {
+        for (int count : diff) {
             if (count != 0) {
                 return false;
             }
