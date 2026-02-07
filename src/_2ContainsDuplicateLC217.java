@@ -2,19 +2,20 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class _2ContainsDuplicateLC217 {
-    public static boolean containsDuplicate(int[] numbers) {
-        Set<Integer> uniqueNumbers = new HashSet<>();
-        for (int number : numbers) {
-            if (!uniqueNumbers.add(number)) {
+    public static boolean containsDuplicate(int[] nums) {
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            if (!set.add(num)) {
                 return true;
             }
+            set.add(num);
         }
         return false;
     }
 
     public static void main(String[] args) {
-        int[] numbers = {1, 2, 3, 1};
-        System.out.println(containsDuplicate(numbers));
+        int[] nums = {1, 2, 3, 1};
+        System.out.println(containsDuplicate(nums));
     }
 }
 /**
